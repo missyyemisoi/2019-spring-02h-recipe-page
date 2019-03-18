@@ -1,0 +1,42 @@
+h1 {
+  background-color: Yellow;
+  padding: 45px;
+}
+img {
+  border: 5px solid Yellow;}
+
+.header1
+{border-bottom: 3px solid black;
+}
+
+.listone {
+  border-bottom: 2px dotted black;
+  padding: 12px;
+  list-style-type: none;
+  }
+
+h2 {
+  border-bottom: 3px solid black;
+}
+
+ul {
+  margin: 0px;
+  padding: 0px;
+  }
+
+.list {
+  list-style-type: decimal;
+  margin: 10px;
+  padding: 8px;
+  }
+
+footer {
+  background-color: black;
+  padding: 45px;
+  color: white;
+}
+
+body {
+   font-family: "Comic Sans MS";
+
+ }
